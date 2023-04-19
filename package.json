@@ -9,11 +9,15 @@
     "preview": "react-scripts preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.6",
     "@react-three/drei": "^9.65.3",
     "@react-three/fiber": "^8.12.1",
+    "framer-motion": "^10.12.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^5.0.1",
+    "react-spring": "^9.7.1",
+    "three": "^0.151.3"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
