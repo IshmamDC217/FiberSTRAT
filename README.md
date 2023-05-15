@@ -25,6 +25,3 @@ That's it! You should now be able to see the 3D model of the Stratocaster guitar
 In this project, we utilize [Vite](https://vitejs.dev/) to run the development server and take advantage of its features.
 
 For more information on how you can use Vite for this project, refer to the [Vite documentation](https://vitejs.dev/guide/).
-```
-
-Feel free to adjust the content and formatting as needed.
