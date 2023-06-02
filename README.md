@@ -1,6 +1,6 @@
 # Stratocaster 3D Model
 
-This project is a simple experimental project created to try out the React Three Fiber library and the Drei package. It renders a 3D model of a Fender Stratocaster guitar, loaded from a GLB file, using the OrbitControls and Environment components. The project also includes text descriptions using the Text component.
+The Fender Stratocaster is renowned as an iconic instrument, particularly beloved by guitarists. As someone who has personally owned and cherished three Stratocasters, I felt compelled to pay homage to this legendary guitar. Thus, I embarked on a modest experimental project aimed at exploring the capabilities of the React Three Fiber library in conjunction with the Drei package. The outcome? A captivating visualization of a Fender Stratocaster in a 3D model format, seamlessly imported from a GLB file. Leveraging the OrbitControls and Environment components, the project offers an immersive experience, allowing users to interact with the virtual guitar. To enhance the presentation further, I incorporated descriptive text using the Text component, providing additional context and details about this timeless instrument.
 
 ## How to run the project
 
